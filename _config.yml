@@ -1,0 +1,86 @@
+# Site
+name: 'لیلیٰ بیگم'
+description: 'مجھے اپنے تجربات اور علم لوگوں کے ساتھ بانٹنا بے حد پسند ہے۔ میں گھریلو نسخوں، مزیدار ترکیبوں، خاندانی رشتوں، اور تہواروں کے بارے میں بات کرنا پسند کرتی ہوں۔ اگر آپ کو میرا مواد پسند آئے تو اسے اپنے دوستوں اور گھر والوں کے ساتھ ضرور شیئر کریں!'
+logo: 'assets/images/logo.png'
+favicon: 'assets/images/favicon.ico'
+baseurl: ''
+#disqus: 'demowebsite'
+email: 'laylabegm2004@gmail.com'
+# mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+
+include: ["_pages"]
+permalink: /:title/
+
+# Analytics
+analytics:
+  provider               : "google" # false (default), "google", "google-universal", "google-gtag", "custom"
+  google:
+    tracking_id          : "UA-117501871-2" # Replace this with your ID, or delete
+    anonymize_ip         : true
+
+
+# Plugins
+plugins: 
+  - jekyll-feed
+  - jekyll-sitemap
+  - jekyll-paginate
+  - jekyll-seo-tag
+  
+authors:
+    # sal:
+    #   name:           Sal
+    #   site:           https://www.wowthemes.net
+    #   avatar:         assets/images/avatar1.jpg
+    #   bio:            "Hi, I am Sal, the author of Mundana, the theme you're currently previewing. I hope you like it!"
+    #   email:          wowthemesnet@gmail.com
+    #   twitter:        https://twitter.com/wowthemesnet
+
+    layla:
+      name:            Begum Layla
+#      site:           https://www.wowthemes.net
+      avatar:         assets/images/avatar-4.jpg
+      bio:            "مجھے اپنے تجربات اور علم لوگوں کے ساتھ بانٹنا بے حد پسند ہے۔ میں گھریلو نسخوں، مزیدار ترکیبوں، خاندانی رشتوں، اور تہواروں کے بارے میں بات کرنا پسند کرتی ہوں۔ اگر آپ کو میرا مواد پسند آئے تو اسے اپنے دوستوں اور گھر والوں کے ساتھ ضرور شیئر کریں!"
+      email:          Laylabegm2004@gmail.com
+#      twitter:        https://twitter.com/wowthemesnet
+
+# Collections
+collections:
+  docs:
+    output: true
+    permalink: /:collection/:path/
+
+# Defaults
+defaults:
+  # all posts
+  - scope:
+      path: "_posts"
+    values:
+      layout: post
+      author: sal
+      avatar: assets/images/avatar1.jpg
+      
+  # all pages
+  - scope:
+      path: "_pages"
+    values:
+      layout: page
+
+   # all drafts
+  - scope:
+      path: ""
+    values:
+      layout: post
+      author: sal
+      avatar: assets/images/avatar1.jpg
+           
+# Syntax
+markdown: kramdown
+highlighter: rouge
+
+# Paginate
+paginate: 10
+
+
+
+# Exclude metadata and development time dependencies (like Grunt plugins)
+exclude: [README.markdown, package.json, grunt.js, Gruntfile.js, Gruntfile.coffee, node_modules]

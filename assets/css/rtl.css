@@ -1,0 +1,105 @@
+/* RTL Support for Urdu Blog */
+
+html,
+body {
+  direction: rtl;
+  text-align: right;
+}
+
+article,
+p,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+blockquote,
+ul,
+ol,
+li,
+figure,
+figcaption {
+  text-align: right;
+}
+
+.navbar,
+.dropdown-menu,
+.card,
+.footer,
+.jumbotron,
+.alert,
+.form-control,
+.table {
+  text-align: right;
+}
+
+/* Flip blockquote styles */
+blockquote {
+  padding-right: 40px;
+  padding-left: 0;
+  margin-right: 0;
+  margin-left: 0;
+  border-right: 5px solid #ccc;
+  border-left: 0;
+}
+
+blockquote::before {
+  right: 10px;
+  left: auto;
+}
+
+/* Flip navbar brand/logo if needed */
+.navbar-brand {
+  margin-right: 0;
+  margin-left: 2rem;
+}
+
+/* Flip list item counters if needed */
+ol.list-featured li::before {
+  margin-left: 0.5rem;
+  margin-right: 0;
+}
+
+/* Form elements adjustment */
+input,
+textarea,
+select {
+  text-align: right;
+}
+
+/* Table alignment fix */
+table th,
+table td {
+  text-align: right;
+}
+
+/* Custom classes for RTL layout */
+.rtl {
+  direction: rtl;
+  text-align: right;
+}
+
+.rtl .text-left {
+  text-align: right !important;
+}
+
+.rtl .text-right {
+  text-align: left !important;
+}
+
+/* Optional: reverse float directions if used */
+.float-left {
+  float: right !important;
+}
+
+.float-right {
+  float: left !important;
+}
+
+body,
+.article-post {
+  font-family: 'Noto Nastaliq Urdu', serif;
+  font-size: 22px;
+  line-height: 2.0;
+}
