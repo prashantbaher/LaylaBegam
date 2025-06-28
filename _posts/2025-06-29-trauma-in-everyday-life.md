@@ -5,7 +5,7 @@ categories: [ ذہنی صحت ]
 description: "جانیں کہ صدمہ خاموشی سے روزمرہ زندگی کو کیسے متاثر کرتا ہے اسلامی نقطہ نظر سے۔ شفا کے مشورے، قرآن کی تفسیر، اور انبیاء کے واقعات کے ذریعے سکون اور مقصد دوبارہ پانے کا طریقہ سیکھیں۔"
 image: assets/images/trauma-in-everyday-life/title.jpg
 author: layla
-permalink: /docs/trauma-in-everyday-life/
+tags: featured
 ---
 
 ![introduction](/assets/images/trauma-in-everyday-life/introduction.png)
