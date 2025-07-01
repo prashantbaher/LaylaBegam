@@ -5,7 +5,6 @@ categories: [ ذہنی صحت ]
 description: "جذباتی ردعمل کو اسلامی نقطہ نظر سے سمجھیں، ماضی کے زخموں کو شفا دینے، ردعمل کو سنبھالنے اور ایمان کے ذریعے سکون حاصل کرنے کے لیے عملی مشورے حاصل کریں۔ حضرت محمد ﷺ کی تعلیمات، دعا اور صبر کے ذریعے جذبات کو کیسے سنبھالا جائے سیکھیں۔"
 image: assets/images/understanding-emotional-triggers/title.png
 author: layla
-permalink: /docs/understanding-emotional-triggers/
 ---
 
 ## *ایک اسلامی نقطہ نظر میں شفا اور ترقی*
