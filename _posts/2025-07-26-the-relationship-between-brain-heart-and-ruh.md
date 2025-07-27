@@ -5,7 +5,6 @@ categories: [ ذہنی صحت ]
 description: "دماغ، دل اور روح کے درمیان گہرا روحانی تعلق ہے۔ یہ مضمون اسلامی نقطۂ نظر سے ان کے باہمی ربط کو قرآن و حدیث کی روشنی میں بیان کرتا ہے۔ روح کی طاقت، دل کی صفائی اور دماغ کی سوچ مل کر انسان کو مکمل سکون اور قربِ الٰہی عطا کرتے ہیں۔"
 image: assets/images/the-relationship-between-brain-heart-and-ruh/title.jpg
 author: layla
-permalink: /docs/the-relationship-between-brain-heart-and-ruh/
 ---
 
 
