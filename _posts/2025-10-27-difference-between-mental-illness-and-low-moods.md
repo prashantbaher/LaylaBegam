@@ -18,6 +18,8 @@ permalink: /docs/difference-between-mental-illness-and-low-moods/
 
 ## 🌙 *عارضی اُداسی کیا ہے؟*
 
+![عارضی اُداسی کیا ہے؟](/assets/images/difference-between-mental-illness-and-low-moods/Section-1.png)
+
 عارضی اُداسی ایک **وقتی جذباتی کیفیت** ہے۔ یہ عام طور پر کچھ گھنٹے یا دنوں تک رہتی ہے، جیسے:
 
 - کام یا اسکول کا برا دن  
@@ -34,6 +36,8 @@ permalink: /docs/difference-between-mental-illness-and-low-moods/
 ---
 
 ## 🧠 *دماغی بیماری کیا ہے؟*
+
+![دماغی بیماری کیا ہے؟](/assets/images/difference-between-mental-illness-and-low-moods/Section-2.png)
 
 دماغی بیماری ایک **طبی مسئلہ** ہے جو کسی کے سوچنے، محسوس کرنے، یا برتاؤ پر دیرپا اثر ڈالتا ہے۔ یہ انسان کی روزمرہ زندگی، رشتوں، اور عبادات تک کو متاثر کرتی ہے۔ مثالیں:
 
@@ -60,6 +64,8 @@ permalink: /docs/difference-between-mental-illness-and-low-moods/
 
 ## 📿 *اسلام میں جذباتی کیفیت کی پہچان*
 
+![اسلام میں جذباتی کیفیت کی پہچان](/assets/images/difference-between-mental-illness-and-low-moods/Section-4.png)
+
 اسلام ہمیں اُداسی یا کمزوری پر شرمندہ نہیں کرتا۔  
 اللہ تعالیٰ فرماتے ہیں:
 
@@ -80,6 +86,8 @@ permalink: /docs/difference-between-mental-illness-and-low-moods/
 
 ## 💬 *ذاتی احساسات 💗*
 
+![ذاتی احساسات](/assets/images/difference-between-mental-illness-and-low-moods/Section-5.png)
+
 میرے ساتھ بھی ایسا وقت آیا جب دل خالی لگتا تھا۔  
 نماز پڑھتی، دعا کرتی، مگر دل مطمئن نہ ہوتا۔  
 میں نے سمجھا شاید *میرے ایمان میں کمی ہے۔*  
@@ -93,6 +101,8 @@ permalink: /docs/difference-between-mental-illness-and-low-moods/
 ---
 
 ## 🛑 *کب مدد حاصل کرنی چاہیے؟*
+
+![کب مدد حاصل کرنی چاہیے؟](/assets/images/difference-between-mental-illness-and-low-moods/Section-6.png)
 
 مدد لیں اگر:
 
@@ -112,6 +122,8 @@ permalink: /docs/difference-between-mental-illness-and-low-moods/
 ---
 
 ## 🌿 *اسلامی طریقوں سے اُداسی کا علاج*
+
+![اسلامی طریقوں سے اُداسی کا علاج](/assets/images/difference-between-mental-illness-and-low-moods/Section-7.png)
 
 یہ چند طریقے آزمائیں:
 
