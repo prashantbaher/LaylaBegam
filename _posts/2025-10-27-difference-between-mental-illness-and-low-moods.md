@@ -139,6 +139,8 @@ permalink: /docs/difference-between-mental-illness-and-low-moods/
 
 ## ✨ *آپ تنہا نہیں ہیں*
 
+![آپ تنہا نہیں ہیں](/assets/images/difference-between-mental-illness-and-low-moods/Section-8.png)
+
 آپ *کمزور نہیں*، *نہ ناکام*، اور *نہ ہی برے مسلمان* اگر آپ جدوجہد کر رہے ہیں۔  
 اللہ تعالیٰ آپ کے دل کی حالت جانتا ہے۔  
 وہ آپ کی خاموش جنگوں کو دیکھتا ہے۔
