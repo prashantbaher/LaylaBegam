@@ -21,6 +21,9 @@ permalink: /docs/can-muslims-get-depressed/
 
 ## 🤔 **کیا ڈپریشن کمزور ایمان کی نشانی ہے؟**
 
+![کیا ڈپریشن کمزور ایمان کی نشانی ہے؟](/assets/images/can-muslims-get-depressed/Section-1.png)
+
+
 اکثر مسلمان سمجھتے ہیں کہ اگر کوئی افسردہ ہو، تو اس کا ایمان کمزور ہے۔  
 لیکن یہ **غلط خیال** ہے۔ اداسی یا ذہنی تھکن کا مطلب یہ نہیں کہ آپ کا اللہ سے تعلق کمزور ہے۔
 
@@ -70,6 +73,9 @@ permalink: /docs/can-muslims-get-depressed/
 
 ## 🌿 **اسلام جذباتی درد کو غلط نہیں کہتا**
 
+![اسلام جذباتی درد کو غلط نہیں کہتا](/assets/images/can-muslims-get-depressed/Section-2.png)
+
+
 اسلام ہمیں **رحمت** سکھاتا ہے، نہ کہ شرمندگی۔
 
 🕋 نبی کریم ﷺ نے فرمایا:
@@ -87,6 +93,9 @@ permalink: /docs/can-muslims-get-depressed/
 
 ## 🧩 **مسلمانوں میں ڈپریشن کی وجوہات**
 
+![مسلمانوں میں ڈپریشن کی وجوہات](/assets/images/can-muslims-get-depressed/Section-3.png)
+
+
 - بچپن یا ماضی کا کوئی صدمہ  
 - کام کا دباؤ یا مسلسل تھکن  
 - کسی عزیز کا انتقال  
@@ -99,6 +108,8 @@ permalink: /docs/can-muslims-get-depressed/
 ---
 
 ## 🛐 **اگر آپ ڈپریشن میں ہیں، تو کیا کریں؟**
+
+![اگر آپ ڈپریشن میں ہیں، تو کیا کریں؟](/assets/images/can-muslims-get-depressed/Section-4.png)
 
 1. **مدد لینے سے نہ گھبرائیں**
    - کسی *مسلم تھراپسٹ* سے بات کریں  
@@ -130,6 +141,8 @@ permalink: /docs/can-muslims-get-depressed/
 
 ## 💔 **کسی کو "نماز پڑھ لو، ٹھیک ہو جاؤ گے" مت کہیں**
 
+![کسی کو "نماز پڑھ لو، ٹھیک ہو جاؤ گے" مت کہیں](/assets/images/can-muslims-get-depressed/Section-5.png)
+
 ڈپریشن والے کو یہ جملے نہ کہیں:
 
 - “تمھارا ایمان کمزور ہے”  
@@ -160,6 +173,8 @@ permalink: /docs/can-muslims-get-depressed/
 
 ## 💬 **ڈپریشن میں پڑھے جانے والی دعائیں**
 
+![ڈپریشن میں پڑھے جانے والی دعائیں](/assets/images/can-muslims-get-depressed/Section-6.png)
+
 > _"اے دلوں کو پھیرنے والے، میرے دل کو اپنے دین پر قائم رکھ"_  
 > *(ترمذی)*
 
@@ -171,6 +186,8 @@ permalink: /docs/can-muslims-get-depressed/
 ---
 
 ## 🌈 **آپ اکیلے نہیں ہیں**
+
+![آپ اکیلے نہیں ہیں](/assets/images/can-muslims-get-depressed/Section-7.png)
 
 آپ کمزور نہیں۔  
 آپ گناہ گار نہیں۔  
