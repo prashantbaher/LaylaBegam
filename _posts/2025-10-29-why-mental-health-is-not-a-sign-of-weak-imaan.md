@@ -22,6 +22,8 @@ permalink: /docs/why-mental-health-is-not-a-sign-of-weak-imaan/
 
 ## 🧠 **ذہنی صحت ایک انسانی کیفیت ہے — ایمان کی کمزوری نہیں**
 
+![ذہنی صحت ایک انسانی کیفیت ہے — ایمان کی کمزوری نہیں](/assets/images/why-mental-health-is-not-a-sign-of-weak-imaan/Section-1.png)
+
 ہم *جسم*، *دل* اور *روح* سے بنے ہیں۔  
 اسلام تینوں کی ضروریات کو خوبصورتی سے تسلیم کرتا ہے۔
 
@@ -40,6 +42,8 @@ permalink: /docs/why-mental-health-is-not-a-sign-of-weak-imaan/
 ---
 
 ## 📖 **انبیا بھی دُکھ اور غم کا سامنا کرتے تھے**
+
+![انبیا بھی دُکھ اور غم کا سامنا کرتے تھے](/assets/images/why-mental-health-is-not-a-sign-of-weak-imaan/Section-2.png)
 
 اگر ذہنی دباؤ ایمان کی کمی ہے، تو پھر *اللہ کے محبوب پیغمبروں* کا کیا مقام؟
 
@@ -64,6 +68,8 @@ permalink: /docs/why-mental-health-is-not-a-sign-of-weak-imaan/
 
 ## 🕊️ **اسلام میں جذبات کا اظہار جائز ہے**
 
+![اسلام میں جذبات کا اظہار جائز ہے](/assets/images/why-mental-health-is-not-a-sign-of-weak-imaan/Section-3.png)
+
 اسلام ہمیں جذبات دبانے کا نہیں، بلکہ *سمجھداری اور ایمان* سے قابو پانے کا درس دیتا ہے۔
 
 🥲 آپ رو سکتے ہیں۔  
@@ -81,6 +87,8 @@ permalink: /docs/why-mental-health-is-not-a-sign-of-weak-imaan/
 ---
 
 ## 🧕 **ذہنی بیماری سزا نہیں ہوتی**
+
+![اسلام میں جذبات کا اظہار جائز ہے](/assets/images/why-mental-health-is-not-a-sign-of-weak-imaan/Section-4.png)
 
 کچھ لوگ سمجھتے ہیں کہ پریشانی یا ڈپریشن اللہ کی طرف سے سزا ہے۔  
 *یہ درست نہیں ہے۔*
@@ -111,6 +119,8 @@ permalink: /docs/why-mental-health-is-not-a-sign-of-weak-imaan/
 
 ## 🌺 **ایک بہن کی سچی کہانی**
 
+![ایک بہن کی سچی کہانی](/assets/images/why-mental-health-is-not-a-sign-of-weak-imaan/Section-5.png)
+
 فاطمہ، ایک نوجوان بھارتی مسلم لڑکی (بالکل میری طرح)، جو بظاہر بہت دیندار تھی — نماز، قرآن، اور حجاب میں مستقل۔  
 لیکن اندر ہی اندر وہ ڈپریشن سے لڑ رہی تھی۔
 
@@ -139,6 +149,8 @@ permalink: /docs/why-mental-health-is-not-a-sign-of-weak-imaan/
 
 ## 💡 **آپ کیا کر سکتے ہیں؟**
 
+![ایک بہن کی سچی کہانی](/assets/images/why-mental-health-is-not-a-sign-of-weak-imaan/Section-6.png)
+
 اگر آپ ذہنی دباؤ یا تکلیف کا شکار ہیں:
 
 - کسی قابلِ اعتماد انسان سے بات کریں 🤝  
@@ -163,6 +175,8 @@ permalink: /docs/why-mental-health-is-not-a-sign-of-weak-imaan/
 ---
 
 ## 🌼 آخر میں
+
+![آخر میں](/assets/images/why-mental-health-is-not-a-sign-of-weak-imaan/Section-7.png)
 
 **ذہنی مسائل کا سامنا کرنا *ایمان کی کمزوری نہیں* — یہ انسان ہونے کی نشانی ہے۔**  
 انبیا نے بھی غم، پریشانی اور دکھ محسوس کیا۔
